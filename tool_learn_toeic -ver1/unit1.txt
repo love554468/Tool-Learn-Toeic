@@ -1,0 +1,56 @@
+unit1: dạng câu hỏi có 1 người trong hình
+Miêu tả đặc điẻm ngoại hình, động tác nhân vật dựa trên cấu trúc be + Ving 
+====
+01
+The woman is holding a book
+the woman is looking down at the machine
+the woman is making some copies.
+the woman is operating a machine.
+there is a photocopier along the wall
+the door is closed
+====
+02
+the woman is cleaning the street with a broom
+the woman is examining the girl's arm
+he is conducting a phone conversation at the desk
+the speaker is speaking into the microphone
+he is writing on the paper with a pen
+she is pouring the liquid into the cup
+the man is working at the computer
+a woman is carying something under her arm
+====
+03
+people are working at the water's edge
+the man is carrying a tire
+the man is putting on a shirt
+the man is cutting down trees
+the man is wearing the gloves
+One of the men is changing the car tires
+====
+04
+she is sitting at the desk
+the woman is typing on the computer keyboard
+she is writing something with a pen
+the women are working in the office
+she is reaching for the monitor
+she is conducting a phone conversation at the desk
+====
+05
+holding in a hand
+opening the bottle's cap
+pouring something into a cup
+looking at the monitor
+examining something
+reaching for the item
+carrying the chairs
+climbing the ladder
+speaking into the microphone
+conducting a phone conversation
+working at the computer
+cleaning the street
+standing beneath the tree
+the woman is sweeping the street
+she's taking a photograph of the artwork
+a man is typing a boat at the dock
+a man is feeding the birds by hand
+he's viewing arts in the museum

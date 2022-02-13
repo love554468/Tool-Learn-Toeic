@@ -1,0 +1,32 @@
+phát triển tính năng và đóng gói code cho mượt
+
+code 1 file de luu tu moi tieng anh
+
+thêm file âm thanh vào để luyện tập
+
+tính time trôi qua mỗi lúc luyện tập, thời gian bắt đầu và kết thúac vứt
+vào một file để thống kê
+tính năng thêm câu hoặc từ mới khi đang luyện tập vào kho để luyện tập
+làm menu luyện tập các part unit 1- unit 9
+tăng tuỳ biến nên
+bỏ cái "a  b" bằng "a b"
+thêm cái các phần đã luyện tập
+
+option quan trong nhat la menu 
+xem xét cái lỗi bị cuối dòng có nhiều dấu cách
+vd: 
+"""
+all the boxes are filled with fruit
+Again hay bỏ cuộc (2): all the boxes are filled with fruit
+Correct ! +1
+
+Correct ! +1
+
+Correct ! +1
+"""
+
+Các option:
+- Dữ liệu: tổ chức và truy xuất dữ liệu sao cho tốt ?
+- chế độ luyện tập theo câu và theo theo phần: phần luyện tập: mình thấy phần nào yếu hoặc câu nào yếu thì thêm vào phần luyện tập 
+- random phần luyện tập vd: random ra đó là unit 1 hay 4 ...
+- 

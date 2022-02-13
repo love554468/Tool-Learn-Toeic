@@ -1,0 +1,65 @@
+unit8: yes no
+====
+046
+did you call a taxi for Mr.Nunez
+yes, it should be here shortly
+have you made copies of the booklet
+i already distributed them to the attendees
+is your business going well
+not really, im having financial problems
+====
+047
+is the weather sunny enough to go on a picnic today
+it was raining yesterday
+yes, i think so
+did you place the orders i asked for 
+no, i placed it along the wall
+i completely forgot
+has the new contractor accepted our offer
+they already signed the contract
+yes, they declined our offer
+====
+048
+were you able to finish the project on time
+fortunately, i completed it last Friday
+yes, i couldn't meet the deadline
+has the second estimate arrived
+our estimated arrival time is 3pm
+yes, Ms.Wong will give it to you in a minute
+did you enjoy your trip to japan
+i learned Japanese when i was in high school
+i had great time there
+====
+049 is the shopment scheduled to go to New York today
+actually, it should be sent to London
+Yes, they had to change the schedule
+do you have the receipt for this shirt
+it seems too big for me
+no, i didn't bring it with me
+have you seen the newly released movie
+not yet, but i heard it's funny
+yes, im moving this weekend
+====
+050
+is there a faster way to process the applications
+do you know who will replace Carol's work
+have you heard about Tim recently
+were there any message while i was out
+did you take the bus to work today
+does she spell her name, K-A-T-Y
+did you send out the invitations yesterday
+have you ever been to the headquarters
+do you cary to thye headquarters
+have you met each other before
+====
+051
+do you know where the cold food is
+did the president approve the proposal
+does she work with Jackson cooperation
+did Mr.White go on his business trip
+are you still seeking employees for the job openings
+is the director available for tonight's charity event
+are there any steaks left
+have you ever been to the national museum
+has she transferred to busan branch
+have we met before

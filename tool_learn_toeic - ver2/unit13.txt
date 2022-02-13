@@ -1,0 +1,56 @@
+unit13: bài đối thoại trong ngân hàng
+====
+078
+- Ben's computer terminal doesn't work properly. it looks like a problem with the new software
+so will that counter be closed down for the day?
+- yes, i think the other tellers will be asked to do his work
+it might be a busy day today. just let me know if you need any help with any of the transactions
+====
+079
+- excuse me. can you tell me how th telephone banking services work?
+you can do all your day to day banking over the telephone, 24 hours a day.
+- that's great. how do i access my account?
+just call the bank, key in your PIN number and listen to the menu of options available
+====
+080
+- David, i'm looking for some advice on the Montreal Bank site as to how to change my personal information, but i can't enter
+did you log in? go to the top of the webpage, then click the sace that says "log in".
+- okay, i have done that. Now, how can i change my personal information?
+go to the part of the page that says "Personal Information." If you have any problems, then let me know. i'll help you fix the data
+====
+081
+- hello. i'm calling to ask for information on ATM location. Could you please direct me to the nearsest ATM?
+No problem, Sir.Where are you calling from?
+- i'm calling from Harvardway at 10th street, Boston
+Okay, the nearest ATM is just one block away on Harardway and 8th street. Oh, sorry. two blocks, not one block
+====
+082
+bank statement
+deposit and withdrawal
+checking account
+bounce a check 
+brach
+open an account
+atm - automated teller machine
+pin - personal identification number
+check the balance
+savings account
+pay interest
+transfer
+key in
+mortage
+bank teller
+account number 
+interest rate
+i'd like some information on the telephone banking services
+you can check your balance and pay bills
+i'd like to open an account at this branch
+i'd like to transfer 10.000 dollars to mr.pierce
+what's the account number that you're transferring from?
+i want to make this transaction to happen right now
+you need proof of identiffication and proof of residence
+i'd like to exchange Korean won for dollars
+my checking account is overdrawn by 200 dollars
+we'll take a look at your account
+
+
